@@ -41,12 +41,12 @@
     "unocss": ">=66.0.0"
   },
   "dependencies": {
-    "@unocss/core": "^66.4.2",
-    "@unocss/preset-icons": "^66.4.2",
-    "@unocss/preset-web-fonts": "^66.4.2",
-    "@unocss/preset-wind4": "^66.4.2",
-    "@unocss/transformer-directives": "^66.4.2",
-    "@unocss/transformer-variant-group": "^66.4.2"
+    "@unocss/core": "^66.5.0",
+    "@unocss/preset-icons": "^66.5.0",
+    "@unocss/preset-web-fonts": "^66.5.0",
+    "@unocss/preset-wind4": "^66.5.0",
+    "@unocss/transformer-directives": "^66.5.0",
+    "@unocss/transformer-variant-group": "^66.5.0"
   },
   "devDependencies": {
     "@kevinmarrec/eslint-config": "^1.0.0",
@@ -57,7 +57,7 @@
     "eslint": "^9.34.0",
     "knip": "^5.63.0",
     "pathe": "^2.0.3",
-    "taze": "^19.3.0",
+    "taze": "^19.4.0",
     "tsdown": "^0.14.2",
     "typescript": "^5.9.2",
     "vitest": "^3.2.4"

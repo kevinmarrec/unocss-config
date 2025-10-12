@@ -6,5 +6,6 @@
       "matchSourceUrls": ["https://github.com/unocss/unocss"],
       "groupName": "unocss"
     }
-  ]
+  ],
+  "prHourlyLimit": 4
 }

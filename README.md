@@ -1,5 +1,8 @@
 # @kevinmarrec/unocss-config
 
+> [!IMPORTANT]  
+> Moved to https://github.com/kevinmarrec/config/tree/main/packages/unocss
+
 ## Description
 
 Opinionated [UnoCSS](https://unocss.dev) [config](https://unocss.dev/config).
